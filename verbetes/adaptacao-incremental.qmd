@@ -1,0 +1,18 @@
+---
+title: Adaptação incremental
+subtitle: Incremental adaptation
+---
+
+## Definição
+
+Ações para manter a essência/integridade de um sistema ou processo numa dada escala. 
+
+## Texto original
+
+> Adaptation that maintains the essence and integrity of a system or process at a given scale (Park et al., 2012). In some cases, incremental adaptation can accrue to result in transformational adaptation (Tàbara et al., 2018; Termeer et al., 2017). Incremental adaptations to change in climate are understood as extensions of actions and behaviours that already reduce the losses or enhance the benefits of natural variations in extreme weather/climate events.
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2899
+
+## Comentário

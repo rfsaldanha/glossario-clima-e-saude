@@ -1,0 +1,15 @@
+---
+title: "Glossário de Clima e Saúde"
+toc: false
+listing:
+  contents: verbetes
+  type: grid
+  sort: "title asc"
+  fields: [title, description]
+---
+
+Texto de introdução...
+
+## Verbetes
+
+
