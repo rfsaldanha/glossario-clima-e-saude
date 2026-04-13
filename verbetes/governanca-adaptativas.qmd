@@ -1,0 +1,15 @@
+---
+title: "Governança adaptativas"
+---
+
+## Definição
+
+Ajustes à condições mutáveis, como as mudanças climáticas, através de interações de governança que buscam preservar um estado desejado em um sistema socio-ecológico.
+
+## Texto original
+
+> "Adjusting to changing conditions, such as climate change, through governance interactions that seek to maintain a desired state in a social-ecological system."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

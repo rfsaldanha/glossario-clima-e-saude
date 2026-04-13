@@ -1,18 +1,16 @@
 ---
-title: Adaptação transformativa
-subtitle: Transformational adaptation
+title: "Adaptação transformativa"
+subtitle: "Transformational adaptation"
 ---
 
 ## Definição
 
-Mudanças nos atributos fundamentais do sistema em resposta ao clima e seus efeitos.
+Adaptação transformacional: mudanças nos atributos fundamentais do sistema em resposta ao clima e seus efeitos.
 
 ## Texto original
 
-> Adaptation that changes the fundamental attributes of a social-ecological system in anticipation of climate change and its impacts.
+> "Adaptation that changes the fundamental attributes of a social-ecological system in anticipation of climate change and its impacts."
 
 ## Fonte
 
 IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2899
-
-## Comentário

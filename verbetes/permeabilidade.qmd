@@ -1,0 +1,15 @@
+---
+title: "Permeabilidade"
+---
+
+## Definição
+
+Capacidade de um solo, sedimento ou rocha porosa de permitir a passagem, transferência ou cedência da água. Mede-se pela quantidade de água que passa por uma seção unitária, durante a unidade de tempo, sob um gradiente hidráulico de 100%.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

@@ -1,0 +1,16 @@
+---
+title: "Caminhos de desenvolvimento sustentável"
+subtitle: "SDPs"
+---
+
+## Definição
+
+Trajetórias destinadas a alcançar os Objetivos de Desenvolvimento Sustentável (ODS) a curto prazo e os objetivos do desenvolvimento sustentável a longo prazo. No contexto das mudanças climáticas, essas trajetórias abrangem as dimensões social, ambiental e econômica do desenvolvimento sustentável, adaptação e mitigação, e transformação, em um sentido genérico ou a partir de uma perspectiva metodológica específica, como modelos de avaliação integrada e simulações de cenários.
+
+## Texto original
+
+> "Trajectories aimed at attaining the Sustainable Development Goals (SDGs) in the short term and the goals of sustainable development in the long term. In the context of climate change, such pathways denote trajectories that address social, environmental and economic dimensions of sustainable development, adaptation and mitigation, and transformation, in a generic sense or from a particular methodological perspective such as integrated assessment models and scenario simulations."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

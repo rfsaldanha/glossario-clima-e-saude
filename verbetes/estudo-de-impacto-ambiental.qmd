@@ -1,0 +1,16 @@
+---
+title: "Estudo de Impacto Ambiental"
+subtitle: "EIA"
+---
+
+## Definição
+
+Estudo de caráter prévio, referindo-se à intenção de implantação e operação de um projeto específico, a ser desenvolvido num determinado meio. Tem caráter interdisciplinar e deve contemplar o meio ambiente nos seus segmentos básicos (meio físico, meio biológico e meio sócioeconômico). Deve abranger o diagnóstico ambiental da área de influência do projeto, a análise ou a avaliação dos prováveis impactos decorrentes dos projetos e as medidas de minimização e monitorização associadas aos impactos previstos. Possui um papel de instrumento de planejamento e subsídio fundamental às decisões políticas sobre o projeto.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

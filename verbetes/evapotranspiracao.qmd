@@ -1,0 +1,15 @@
+---
+title: "Evapotranspiração"
+---
+
+## Definição
+
+Processos combinados através dos quais a água é transferida para a atmosfera através de superfícies de água e gelo abertas, solo descoberto e vegetação que compõem a superfície terrestre.
+
+## Texto original
+
+> "The combined processes through which water is transferred to the atmosphere from open water and ice surfaces, bare soil and vegetation that make up the Earth’s surface."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

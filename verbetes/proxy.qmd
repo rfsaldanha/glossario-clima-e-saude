@@ -1,0 +1,15 @@
+---
+title: "Proxy"
+---
+
+## Definição
+
+Um indicador climático proxy é um registro que é interpretado, com base em princípios físicos e biofísicos, para representar alguma combinação de variações relacionadas ao clima no passado. Os dados relacionados ao clima derivados dessa forma são chamados de dados proxy. Exemplos de proxies incluem análise de pólen, registros de anéis de árvores, espeleotemas, características de corais e diversos dados obtidos de sedimentos marinhos e testemunhos de gelo. Os dados proxy podem ser calibrados para fornecer informações climáticas quantitativas.
+
+## Texto original
+
+> "A proxy climate indicator is a record that is interpreted, using physical and biophysical principles, to represent some combination of climate-related variations back in time. Climate-related data derived in this way are referred to as proxy data. Examples of proxies include pollen analysis, tree ring records, speleothems, characteristics of corals and various data derived from marine sediments and ice cores. Proxy data can be calibrated to provide quantitative climate information."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

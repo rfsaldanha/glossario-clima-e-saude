@@ -1,0 +1,15 @@
+---
+title: "Aquecimento Global"
+---
+
+## Definição
+
+O aquecimento global refere-se ao aumento da temperatura da superfície global em relação a um período de referência, calculado como a média ao longo de um período suficiente para eliminar as variações interanuais (por exemplo, 20 ou 30 anos). Uma escolha comum para o período de referência é 1850–1900 (o período mais antigo com observações confiáveis ​​e cobertura geográfica suficiente), embora períodos de referência mais modernos sejam utilizados dependendo da aplicação.
+
+## Texto original
+
+> "Global warming refers to the increase in global surface temperature relative to a baseline reference period, averaging over a period sufficient to remove interannual variations (e.g., 20 or 30 years). A common choice for the baseline is 1850–1900 (the earliest period of reliable observations with sufficient geographic coverage), with more modern baselines used depending upon the application."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

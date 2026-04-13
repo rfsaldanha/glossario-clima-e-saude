@@ -1,0 +1,15 @@
+---
+title: "Remoção de carbono"
+---
+
+## Definição
+
+Atividades antropogênicas que removem dióxido de carbono (CO2) da atmosfera e o armazenam de forma duradoura em reservatórios geológicos, terrestres ou oceânicos, ou em produtos. Isso inclui o aprimoramento antropogênico existente e potencial de sumidouros biológicos ou geoquímicos de CO2 e a captura e armazenamento direto de dióxido de carbono do ar (DACCS), mas exclui a absorção natural de CO2 não causada diretamente por atividades humanas.
+
+## Texto original
+
+> "Anthropogenic activities removing carbon dioxide (CO2) from the atmosphere and durably storing it in geological, terrestrial or ocean reservoirs, or in products. It includes existing and potential anthropogenic enhancement of biological or geochemical CO2 sinks and direct air carbon dioxide capture and storage (DACCS) but excludes natural CO2 uptake not directly caused by human activities."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

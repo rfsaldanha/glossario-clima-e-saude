@@ -1,0 +1,15 @@
+---
+title: "Amplitude térmica"
+---
+
+## Definição
+
+Diferença entre a média ou as extremas das temperaturas mais altas (máximas) e a média ou as extremas das temperaturas mais baixas (mínimas).
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

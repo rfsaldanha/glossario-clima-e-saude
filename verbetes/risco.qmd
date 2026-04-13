@@ -1,0 +1,16 @@
+---
+title: "Risco"
+subtitle: "Risk"
+---
+
+## Definição
+
+Potencial de consequências adversas para sistemas humanos ou ecológicos, reconhecendo a diversidade de valores e objetivos associados a esses sistemas.
+
+## Texto original
+
+> “The potential for adverse consequences for human or ecological systems, recognizing the diversity of values and objectives associated with such systems.”
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2921

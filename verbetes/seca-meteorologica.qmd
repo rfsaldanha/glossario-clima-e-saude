@@ -1,0 +1,15 @@
+---
+title: "Seca meteorológica"
+---
+
+## Definição
+
+Um período de déficit anormal de precipitação.
+
+## Texto original
+
+> "A period with an abnormal precipitation deficit."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

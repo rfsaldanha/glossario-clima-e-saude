@@ -1,0 +1,15 @@
+---
+title: "Nível de complexidade"
+---
+
+## Definição
+
+Em administração de saúde, limite utilizado para hierarquizar os estabelecimentos de um sistema de saúde, segundo a disponibilidade de recursos diversificados e a freqüência das atividades desenvolvidas.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

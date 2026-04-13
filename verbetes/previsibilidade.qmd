@@ -1,0 +1,15 @@
+---
+title: "Previsibilidade"
+---
+
+## Definição
+
+A extensão em que os estados futuros de um sistema podem ser previstos com base no conhecimento dos estados atuais e passados ​​do sistema. Como o conhecimento dos estados passados ​​e atuais do sistema climático é geralmente imperfeito, assim como os modelos que utilizam esse conhecimento para produzir uma previsão climática, e como o sistema climático é inerentemente não linear e caótico, a previsibilidade do sistema climático é inerentemente limitada. Mesmo com modelos e observações arbitrariamente precisos, ainda podem existir limites para a previsibilidade de um sistema tão não linear.
+
+## Texto original
+
+> "The extent to which future states of a system may be predicted based on knowledge of current and past states of the system. Because knowledge of the climate system’s past and current states is generally imperfect, as are the models that utilise this knowledge to produce a climate prediction, and because the climate system is inherently nonlinear and chaotic, the predictability of the climate system is inherently limited. Even with arbitrarily accurate models and observations, there may still be limits to the predictability of such a nonlinear system."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

@@ -1,0 +1,16 @@
+---
+title: "Equidade em saúde"
+subtitle: "Health equity"
+---
+
+## Definição
+
+Ausência de diferenças injustas, evitáveis ou remediáveis entre grupos de pessoas, definidos por critérios sociais, econômicos, demográficos ou geográficos.
+
+## Texto original
+
+> “Health equity is the absence of unfair, avoidable or remediable differences among groups of people, whether those groups are defined socially, economically, demographically or geographically.”
+
+## Fonte
+
+Organização Mundial da Saúde (OMS), Health Equity Glossary, 2022

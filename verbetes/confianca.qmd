@@ -1,0 +1,16 @@
+---
+title: "Confiança"
+subtitle: "evidência"
+---
+
+## Definição
+
+A robustez de uma conclusão baseia-se no tipo, quantidade, qualidade e consistência das evidências (por exemplo, compreensão mecanicista, teoria, dados, modelos, julgamento de especialistas) e no grau de concordância entre múltiplas linhas de evidência.
+
+## Texto original
+
+> "The robustness of a finding based on the type, amount, quality and consistency of evidence (e.g., mechanistic understanding, theory, data, models, expert judgment) and on the degree of agreement across multiple lines of evidence."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

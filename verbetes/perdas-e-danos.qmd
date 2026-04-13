@@ -1,0 +1,16 @@
+---
+title: "Perdas e danos"
+---
+
+## Definição
+
+Pesquisas interpretaram "Perdas e Danos" (em letras maiúsculas) como referência ao debate político no âmbito da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), após a criação do Mecanismo de Varsóvia sobre Perdas e Danos em 2013. Esse mecanismo visa "abordar as perdas e os danos associados aos impactos das mudanças climáticas, incluindo eventos extremos e eventos de início lento, em países em desenvolvimento particularmente vulneráveis ​​aos efeitos adversos das mudanças climáticas". Já o termo "perdas e danos" (em letras minúsculas) passou a se referir, de forma mais ampla, aos prejuízos decorrentes de impactos (observados) e riscos (projetados), que podem ser de natureza econômica ou não econômica.
+
+## Texto original
+
+> "Research has taken Loss and Damage (capitalised letters) to refer to political debate under the United Nations Framework Convention on Climate Change (UNFCCC) following the establishment of the Warsaw Mechanism on Loss and Damage in 2013, which is to ‘address loss and damage associated with impacts of climate change, including extreme events and slow onset events, in developing countries that are particularly vulnerable to the adverse effects of climate change.’ Lowercase letters (losses and damages) have been taken to refer broadly to harm from (observed) impacts and (projected) risks and can be economic or non-economic"
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927
+MECHLER, R. et al. (Org.). Loss and Damage from Climate Change: Concepts, Methods and Policy Options. Cham: Springer International Publishing, 2019(Climate Risk Management, Policy and Governance). Disponível em: http://link.springer.com/10.1007/978-3-319-72026-5. Acesso em: 13 abr. 2026.

@@ -1,0 +1,16 @@
+---
+title: "Resiliência"
+subtitle: "Resilience"
+---
+
+## Definição
+
+Capacidade de sistemas sociais, econômicos e ambientais lidarem com um evento, tendência ou perturbação perigosa, respondendo ou se reorganizando de modo a manter sua função, identidade e estrutura essenciais, além de conservar a capacidade de adaptação, aprendizado e transformação.
+
+## Texto original
+
+> "The capacity of interconnected social, economic and ecological systems to cope with a hazardous event, trend or disturbance, responding or reorganising in ways that maintain their essential function, identity and structure."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2920

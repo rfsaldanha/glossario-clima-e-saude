@@ -1,0 +1,15 @@
+---
+title: "Emissões de combustíveis fósseis"
+---
+
+## Definição
+
+Emissões de gases de efeito estufa (em particular, dióxido de carbono), outros gases residuais e aerossóis resultantes da combustão de combustíveis provenientes de depósitos de carbono fóssil, como petróleo, gás e carvão.
+
+## Texto original
+
+> "Emissions of greenhouse gases (in particular, carbon dioxide), other trace gases and aerosols resulting from the combustion of fuels from fossil carbon deposits such as oil, gas and coal."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

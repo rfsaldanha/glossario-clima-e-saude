@@ -1,0 +1,15 @@
+---
+title: "Normal climatológica"
+---
+
+## Definição
+
+Médias de dados climatológicos registrados para períodos de 30 anos consecutivos: 1 de janeiro de 1981-31 de dezembro de 2010, 1 de janeiro de 1991-31 de dezembro de 2020 e assim por diante.
+
+## Texto original
+
+> "Averages of climatological data computed for the following consecutive periods of 30 years: 1 January 1981–31 December 2010, 1 January 1991–31 December 2020, and so forth."
+
+## Fonte
+
+Guide to the calculation of Climate Normals, WMO

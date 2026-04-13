@@ -1,0 +1,15 @@
+---
+title: "Elemento"
+---
+
+## Definição
+
+Um aspecto do clima que pode ser descrito estatisticamente, como a temperatura, precipitação ou pressão de vapor.
+
+## Texto original
+
+> "An aspect of climate that can be statistically described, such as temperature, precipitation or vapour pressure."
+
+## Fonte
+
+Guide to the calculation of Climate Normals, WMO

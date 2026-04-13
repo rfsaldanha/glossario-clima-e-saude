@@ -1,0 +1,15 @@
+---
+title: "Previsão climática"
+---
+
+## Definição
+
+Uma predição climática ou previsão climática é o resultado de uma tentativa de produzir (a partir de um estado específico do sistema climático) uma estimativa da evolução real do clima no futuro, por exemplo, em escalas de tempo sazonais, interanuais ou decadais. Como a evolução futura do sistema climático pode ser altamente sensível às condições iniciais, essas previsões geralmente têm natureza probabilística.
+
+## Texto original
+
+> "A climate prediction or climate forecast is the result of an attempt to produce (starting from a particular state of the climate system) an estimate of the actual evolution of the climate in the future, for example, at seasonal, interannual or decadal time scales. Because the future evolution of the climate system may be highly sensitive to initial conditions, such predictions are usually probabilistic in nature."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

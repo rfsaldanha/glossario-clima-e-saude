@@ -1,0 +1,16 @@
+---
+title: "Mensuração"
+---
+
+## Definição
+
+Processos de coleta de dados ao longo do tempo, fornecendo conjuntos de dados básicos, incluindo a acurácia e a precisão associadas, para a gama de variáveis ​​relevantes. As possíveis fontes de dados são medições de campo, observações de campo, detecção por sensoriamento remoto e entrevistas.
+
+## Texto original
+
+> "Processes of data collection over time, providing basic data sets, including associated accuracy and precision, for the range of relevant variables. Possible data sources are field measurements, field observations, detection through remote sensing and interviews."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927
+UN-REDD. Measurement, Assessment, Reporting and Verification (MARV). 2009.

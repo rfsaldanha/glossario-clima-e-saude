@@ -1,0 +1,18 @@
+---
+title: "Plano de contingência"
+subtitle: "Contingency plan"
+---
+
+## Definição
+
+O planejamento de contingência geralmente se refere ao planejamento para cenários específicos ou eventos perigosos que resultam em cursos de ação organizados e
+coordenados, com funções e recursos institucionais claramente identificados, processos de informação e arranjos operacionais
+para atores específicos em momentos de necessidade.
+
+## Texto original
+
+> "Contingency planning usually refers to planning for specific scenarios or hazardous events that result in organized and coordinated courses of action with clearly identified institutional roles and resources, information processes and operational arrange¬ments for specific actors at times of need"
+
+## Fonte
+
+Organização Mundial da Saúde (OMS), Guidelines for Emergency Preparedness and Response, 2017, p. 5.

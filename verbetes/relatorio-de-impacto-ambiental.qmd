@@ -1,0 +1,16 @@
+---
+title: "Relatório de Impacto Ambiental"
+subtitle: "RIMA"
+---
+
+## Definição
+
+Relatório baseado nos produtos elaborados pelo Estudo de Impacto Ambiental (EIA). O RIMA deve ser apresentado de forma objetiva e adequada a sua compreensão, a fim de propiciar maior compreensão e clareza para população quanto as características do empreendimento, os impactos ambientais gerados, as propostas de mitigação dos impactos, entre outros aspectos da implantação e operação do empreendimento. As informações devem ser traduzidas em linguagem acessível, ilustradas por mapas, cartas, quadros, gráficos e demais técnicas de comunicação visual, de modo que se possam entender as vantagens e desvantagens do projeto, bem como todas as consequências ambientais de sua implementação.
+
+## Texto original
+
+> -
+
+## Fonte
+
+https://pnla.mma.gov.br/estudos-ambientais#:~:text=Comum%20a%20todos%20os%20estados,possam%20causar%20significativos%20impactos%20ambientais.

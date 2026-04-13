@@ -1,0 +1,15 @@
+---
+title: "Eventos climáticos compostos"
+---
+
+## Definição
+
+Os termos “eventos compostos”, “extremos compostos” e “eventos extremos compostos” são usados ​​de forma intercambiável na literatura e neste relatório e referem-se à combinação de múltiplos fatores e/ou perigos que contribuem para o risco social e/ou ambiental.
+
+## Texto original
+
+> "The terms ‘compound events’, ‘compound extremes’ and ‘compound extreme events’ are used interchangeably in the literature and this report and refer to the combination of multiple drivers and/or hazards that contributes to societal and/or environmental risk"
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

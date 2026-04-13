@@ -1,0 +1,15 @@
+---
+title: "Emissões líquidas zero"
+---
+
+## Definição
+
+Condição sob a qual as emissões antrópicas de dióxido de carbono (CO2) estão em equilíbrio com as remoções antrópicas de CO2 sobre um período específico.
+
+## Texto original
+
+> "Condition in which anthropogenic carbon dioxide (CO2) emissions are balanced by anthropogenic CO2 removals over a specified period."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

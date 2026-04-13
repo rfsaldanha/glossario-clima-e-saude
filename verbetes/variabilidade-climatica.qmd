@@ -1,0 +1,15 @@
+---
+title: "Variabilidade climática"
+---
+
+## Definição
+
+(1) No sentido mais geral, o termo “variabilidade climática” denota a característica inerente do clima que se manifesta em mudanças do clima ao longo do tempo. O grau de variabilidade climática pode ser descrito pelas diferenças entre estatísticas de longo prazo de elementos meteorológicos calculadas para diferentes períodos. (Nesse sentido, a medida de variabilidade climática é a mesma que a medida de mudança do clima.) (2) O termo “variabilidade climática” é frequentemente usado para indicar desvios das estatísticas climáticas em um determinado período de tempo (por exemplo, um mês, estação ou ano específico) em relação às estatísticas climáticas de longo prazo referentes ao período calendário correspondente. (Nesse sentido, a variabilidade climática é medida por esses desvios, que geralmente são chamados de anomalias.)
+
+## Texto original
+
+> "(1) In the most general sense, the term "climate variability" denotes the inherent characteristic of climate which manifests itself in changes of climate with time. The degree of climate variability can be described by the differences between long-term statistics of meteorological elements calculated for different periods. (In this sense, the measure of climate variability is the same as the measure of climate change.) (2) The term "climate variability" is often used to denote deviations of climate statistics over a given period of time (e.g. a specific month, season or year) from the long-term climate statistics relating to the corresponding calendar period. (In this sense, climate variability is measured by those deviations, which are usually termed anomalies.)"
+
+## Fonte
+
+International Meteorological Vocabulary, WMO - No. 182

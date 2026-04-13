@@ -1,0 +1,15 @@
+---
+title: "Ciclo hidrológico"
+---
+
+## Definição
+
+O ciclo no qual a água evapora do oceano e da superfície terrestre, é transportada ao redor da Terra pela circulação atmosférica na forma de vapor d’água, condensa-se para formar nuvens e precipita sobre o oceano e o continente como chuva ou neve. Em terra, pode ser interceptada por árvores e vegetação, acumular-se como neve ou gelo, gerar escoamento superficial, infiltrar-se no solo, recarregar aquíferos, alimentar cursos d’água e, por fim, fluir para os oceanos por meio de rios, geleiras polares e mantos de gelo, de onde eventualmente evaporará novamente. Os diversos sistemas envolvidos no ciclo hidrológico são geralmente chamados de sistemas hidrológicos.
+
+## Texto original
+
+> "The cycle in which water evaporates from the ocean and the land surface, is carried over the Earth in atmospheric circulation as water vapour, condenses to form clouds, precipitates over the ocean and land as rain or snow, which on land can be intercepted by trees and vegetation, potentially accumulating as snow or ice, provides runoff on the land surface, infiltrates into soils, recharges groundwater, discharges into streams and, ultimately, flows into the oceans as rivers, polar glaciers and ice sheets, from which it will eventually evaporate again. The various systems involved in the hydrological cycle are usually referred to as hydrological systems."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

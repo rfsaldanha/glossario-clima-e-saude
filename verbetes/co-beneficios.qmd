@@ -1,0 +1,16 @@
+---
+title: "Co-benefícios"
+subtitle: "Co-benefits"
+---
+
+## Definição
+
+Efeitos positivos que uma política/medida voltada a um objetivo pode ter sobre outros objetivos, independentemente do efeito líquido sobre o bem-estar social.
+
+## Texto original
+
+> "A positive effect that a policy or measure aimed at one objective has on another objective, thereby increasing the total benefit to society or the environment. Co-benefits are also referred to as ancillary benefits."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2904

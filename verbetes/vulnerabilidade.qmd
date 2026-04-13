@@ -1,0 +1,16 @@
+---
+title: "Vulnerabilidade"
+subtitle: "Vulnerability"
+---
+
+## Definição
+
+Propensão ou predisposição para ser afetado adversamente. Abrange diferentes conceitos, incluindo sensibilidade ou suscetibilidade a danos e falta de capacidade de enfrentar e se adaptar.
+
+## Texto original
+
+> “The propensity or predisposition to be adversely affected. Vulnerability encompasses a variety of concepts including sensitivity or susceptibility to harm and lack of capacity to cope and adapt.”
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

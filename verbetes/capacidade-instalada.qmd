@@ -1,0 +1,15 @@
+---
+title: "Capacidade instalada"
+---
+
+## Definição
+
+
+
+## Texto original
+
+> "o conjunto de recursos existentes (infraestrutura física, equipamentos, pessoal, serviços e organização) que determina a capacidade atual de um sistema ou unidade de saúde realizar suas funções e atender a população."
+
+## Fonte
+
+Manual de Planejamento em Saúde (Ministério da Saúde, 2023)

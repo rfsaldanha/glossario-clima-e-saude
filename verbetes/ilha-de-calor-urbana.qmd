@@ -1,0 +1,15 @@
+---
+title: "Ilha de calor urbana"
+---
+
+## Definição
+
+O calor relativo de uma cidade quando comparada com as áreas rurais do entorno, associada com o aprisionamento de calor devido ao uso e cobertura da terra, a configuração e forma do ambiente construído, incluindo a disposição das ruas e o tamanho dos edifícios, as propriedades de absorção de calor de materiais de construção urbana, ventilação reduzida, áreas verdes e azuis reduzidas, e emissões de calor domésticas e industriais geradas diretamente de atividades humanas.
+
+## Texto original
+
+> "The relative warmth of a city compared with surrounding rural areas, associated with heat trapping due to land use, the configuration and design of the built environment, including street layout and building size, the heat-absorbing properties of urban building materials, reduced ventilation, reduced greenery and water features, and domestic and industrial heat emissions generated directly from human activities."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

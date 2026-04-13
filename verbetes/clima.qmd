@@ -1,0 +1,15 @@
+---
+title: "Clima"
+---
+
+## Definição
+
+Num senso estrito, o clima é frequentemente definido como o comportamento médio das condições atmosféricas - ou mais rigorosamente, como a descrição estatística em termos de média e variabilidade de quantitativos relevantes - no decorrer de um período de meses, podendo alcançar milhares ou milhões de anos. A forma comum de estabelecer as médias destas variáveis é 30 anos, como definido pela Organização Meteorológica Mundial (OMM). Os quantitativos relevantes são frequentemente variáveis superficiais como a temperatura, precipitação e o vento. O clima num sentido amplo é o estado, incluindo a descrição estatística, de um sistema climático.
+
+## Texto original
+
+> "In a narrow sense, climate is usually defined as the average weather -or more rigorously, as the statistical description in terms of the mean and variability of relevant quantities- over a period of time ranging from months to thousands or millions of years. The classical period for averaging these variables is 30 years, as defined by the World Meteorological Organization (WMO). The relevant quantities are most often surface variables such as temperature, precipitation and wind. Climate in a wider sense is the state, including a statistical description, of the climate system."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

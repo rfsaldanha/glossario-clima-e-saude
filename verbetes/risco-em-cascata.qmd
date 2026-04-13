@@ -1,0 +1,15 @@
+---
+title: "Risco em cascata"
+---
+
+## Definição
+
+
+
+## Texto original
+
+> "Os riscos em cascata correspondem a falhas sucessivas geradas por um evento inicial que compromete sistemas interconectados. Uma inundação, por exemplo, pode provocar colapso de infraestrutura urbana, interrupção de serviços de saúde e contaminação de fontes hídricas, resultando em epidemias secundárias e impactos prolongados sobre a saúde pública."
+
+## Fonte
+
+Elaboração de documento técnico contendo subsídios para a elaboração de proposta metodológica para orientar a elaboração do Plano AdaptaSUS nas esferas estadual e  municipal do SUS - OPAS/Eliane Lima

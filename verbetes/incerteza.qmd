@@ -1,0 +1,15 @@
+---
+title: "Incerteza"
+---
+
+## Definição
+
+Um estado de conhecimento incompleto que pode resultar da falta de informação ou da discordância sobre o que é conhecido ou mesmo cognoscível. Pode ter diversas origens, desde imprecisões nos dados até conceitos ou terminologia definidos de forma ambígua, compreensão incompleta de processos críticos ou projeções incertas do comportamento humano. A incerteza pode, portanto, ser representada por medidas quantitativas (por exemplo, uma função de densidade de probabilidade) ou por afirmações qualitativas (por exemplo, refletindo o julgamento de uma equipe de especialistas).
+
+## Texto original
+
+> "A state of incomplete knowledge that can result from a lack of information or from disagreement about what is known or even knowable. It may have many types of sources, from imprecision in the data to ambiguously defined concepts or terminology, incomplete understanding of critical processes or uncertain projections of human behaviour. Uncertainty can therefore be represented by quantitative measures (e.g., a probability density function) or by qualitative statements (e.g., reflecting the judgement of a team of experts)"
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

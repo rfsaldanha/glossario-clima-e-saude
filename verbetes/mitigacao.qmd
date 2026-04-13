@@ -1,0 +1,16 @@
+---
+title: "Mitigação"
+subtitle: "Mitigation"
+---
+
+## Definição
+
+Intervenção humana para reduzir as fontes ou aumentar os sumidouros de gases de efeito estufa.
+
+## Texto original
+
+> “A human intervention to reduce the sources or enhance the sinks of greenhouse gases.”
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2915

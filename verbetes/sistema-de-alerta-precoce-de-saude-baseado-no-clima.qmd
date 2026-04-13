@@ -1,0 +1,15 @@
+---
+title: "Sistema de alerta precoce de saúde baseado no clima"
+---
+
+## Definição
+
+Os sistemas de alerta precoce de saúde (SAP) baseados no clima visam antecipar os riscos o mais cedo possível e desencadear respostas de alerta precoce para evitar ou reduzir o impacto e preparar-se para uma resposta eficaz. No contexto de um ambiente e cenário de riscos em rápida mudança, os sistemas de alerta precoce são uma ferramenta valiosa para desenvolver a capacidade de adaptação e a resiliência climática dos sistemas de saúde. Um SAP de saúde com base no clima inclui os seguintes 6 elementos principais (WHO, 2021): • monitoriza as condições ambientais; • prevê condições de alto risco e inicia vigilância ativa; • envia alertas e comunicações; e • possui um mecanismo estabelecido para a resposta precoce.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Inquérito Global da OMS sobre Saúde e Mudanças Climáticas - 2025 (Documento de Apoio) - p. 5

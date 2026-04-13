@@ -1,0 +1,15 @@
+---
+title: "Emissões antrópicas"
+---
+
+## Definição
+
+Emissões de gases de efeito estufa (GEE), precursores de GEE e aerossóis causados ​​por atividades humanas. Essas atividades incluem a queima de combustíveis fósseis, o desmatamento, o uso e as mudanças no uso da terra (LULUC), a produção pecuária, a fertilização, o gerenciamento de resíduos e os processos industriais.
+
+## Texto original
+
+> "Emissions of greenhouse gases (GHGs), precursors of GHGs and aerosols caused by human activities. These activities include the burning of fossil fuels, deforestation, land use and land-use changes (LULUC), livestock production, fertilisation, waste management and industrial processes."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

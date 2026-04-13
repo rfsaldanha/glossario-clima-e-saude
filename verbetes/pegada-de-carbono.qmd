@@ -1,0 +1,16 @@
+---
+title: "Pegada de carbono"
+---
+
+## Definição
+
+Medida da quantidade total exclusiva de emissões de dióxido de carbono (CO2) causadas direta e indiretamente por uma atividade ou acumuladas ao longo das fases de vida de um produto.
+
+## Texto original
+
+> "Measure of the exclusive total amount of emissions of carbon dioxide (CO2) that is directly and indirectly caused by an activity or accumulated over the life stages of a product"
+
+## Fonte
+
+Wiedmann, T., & Minx, J. (2008). A Definition of “Carbon Footprint”. In C. C. Pertsova (Ed.), Ecological Economics Research Trends (pp. 1-11). Nova Science Publishers.
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

@@ -1,0 +1,15 @@
+---
+title: "Vigilância integrada"
+---
+
+## Definição
+
+Vigilância Integrada é o conjunto de ações articuladas de monitoramento, alerta e resposta que combinam informações climáticas, ambientais, epidemiológicas e sanitárias para identificar e antecipar riscos, permitindo intervenções coordenadas entre diferentes setores e áreas do SUS diante de ameaças complexas e interdependentes.
+
+## Texto original
+
+> Vigilância Integrada é o conjunto articulado de ações de monitoramento, análise, prevenção e resposta que integra informações e práticas dos diferentes componentes da saúde — humana, animal, ambiental e vegetal — para identificar, avaliar e controlar riscos de forma coordenada, intersetorial e multidisciplinar.
+
+## Fonte
+
+AdaptaSUS e OPAS

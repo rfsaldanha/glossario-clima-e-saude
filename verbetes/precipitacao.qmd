@@ -1,0 +1,15 @@
+---
+title: "Precipitação"
+---
+
+## Definição
+
+Hidrometeoro consistindo na queda ou no agrupamento de partículas. As formas de precipitação são: chuva, chuvisco, neve, grãos de neve, graupels, poeira de diamante, granizo e grãos de gelo.
+
+## Texto original
+
+> "Hydrometeor consisting of a fall of an ensemble of particles. The forms of precipitation are: rain, drizzle, snow, snow grains, snow pellets, diamond dust, hail and ice pellets."
+
+## Fonte
+
+International Meteorological Vocabulary, WMO - No. 182

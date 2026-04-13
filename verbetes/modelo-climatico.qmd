@@ -1,0 +1,15 @@
+---
+title: "Modelo climático"
+---
+
+## Definição
+
+"Uma representação qualitativa ou quantitativa do sistema climático, baseada nas propriedades físicas, químicas e biológicas de seus componentes, em suas interações e processos de retroalimentação, e que considera algumas de suas propriedades conhecidas. O sistema climático pode ser representado por modelos de complexidade variada; isto é, para um componente específico ou uma combinação de componentes, pode-se identificar um espectro ou hierarquia de modelos, que diferem em aspectos como o número de dimensões espaciais, o grau em que processos físicos, químicos ou biológicos são explicitamente representados ou o nível em que parametrizações empíricas são utilizadas. Há uma evolução em direção a modelos mais complexos, com química e biologia interativas. Os modelos climáticos são utilizados como ferramenta de pesquisa para estudar e simular o clima e para finalidades operacionais, incluindo previsões climáticas mensais, sazonais e interanuais."
+
+## Texto original
+
+> "A qualitative or quantitative representation of the climate system based on the physical, chemical and biological properties of its components, their interactions and feedback processes and accounting for some of its known properties. The climate system can be represented by models of varying complexity; that is, for any one component or combination of components, a spectrum or hierarchy of models can be identified, differing in such aspects as the number of spatial dimensions, the extent to which physical, chemical or biological processes are explicitly represented, or the level at which empirical parametrisations are involved. There is an evolution towards more complex models with interactive chemistry and biology. Climate models are applied as a research tool to study and simulate the climate and for operational purposes, including monthly, seasonal and interannual climate predictions."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

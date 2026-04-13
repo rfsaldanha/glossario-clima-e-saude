@@ -1,0 +1,15 @@
+---
+title: "Capacidade hospitalar de emergência"
+---
+
+## Definição
+
+Número de leitos que poderão efetivamente ser colocados em funcionamento num hospital, em situações anormais ou de grandes desastres, com o total aproveitamento das áreas utilizáveis.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

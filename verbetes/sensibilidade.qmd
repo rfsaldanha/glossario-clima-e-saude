@@ -1,0 +1,16 @@
+---
+title: "Sensibilidade"
+subtitle: "Sensitivity"
+---
+
+## Definição
+
+Grau em que um sistema ou espécie é afetado, de forma adversa ou benéfica, pela variabilidade ou mudança do clima.
+
+## Texto original
+
+> “The degree to which a system or species is affected, either adversely or beneficially, by climate variability or change.”
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2922

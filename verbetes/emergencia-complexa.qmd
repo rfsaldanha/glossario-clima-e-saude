@@ -1,0 +1,15 @@
+---
+title: "Emergência complexa"
+---
+
+## Definição
+
+(abordar perspectiva do entendimento como "categoria analítica — com ênfase em cascatas, cadeias, interconexões e interações — confere densidade conceitual ao encadeamento ameaça–exposição–vulnerabilidade e operacionaliza a adaptação em saúde.")
+
+## Texto original
+
+> "Uma emergência complexa ocorre quando um evento climático ou ambiental desencadeia perturbações simultâneas em diferentes setores críticos, tais como saúde, energia, transporte, abastecimento de água, saneamento, segurança alimentar e habitação. A falha de um desses sistemas frequentemente desencadeia efeitos em cascata, propagando o impacto inicial e ampliando o dano humano e institucional."
+
+## Fonte
+
+Elaboração de documento técnico contendo subsídios para a elaboração de proposta metodológica para orientar a elaboração do Plano AdaptaSUS nas esferas estadual e  municipal do SUS - OPAS/Eliane Lima

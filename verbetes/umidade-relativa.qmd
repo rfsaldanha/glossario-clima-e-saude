@@ -1,0 +1,15 @@
+---
+title: "Umidade relativa"
+---
+
+## Definição
+
+A umidade relativa específica a taxa da pressão do vapor de água para a saturação em relação à água líquida ou gelo na mesma temperatura.
+
+## Texto original
+
+> "The relative humidity specifies the ratio of actual water vapour pressure to that at saturation with respect to liquid water or ice at the same temperature."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

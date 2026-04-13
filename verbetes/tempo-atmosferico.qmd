@@ -1,0 +1,15 @@
+---
+title: "Tempo atmosférico"
+---
+
+## Definição
+
+Estado da atmosfera em um momento determinado, definido pelos vários elementos meteorológicos.
+
+## Texto original
+
+> "State of the atmosphere at a particular time, as defined by the various meteorological elements."
+
+## Fonte
+
+International Meteorological Vocabulary, WMO - No. 182

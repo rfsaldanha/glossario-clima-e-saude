@@ -1,0 +1,16 @@
+---
+title: "Gases de efeito de estufa"
+subtitle: "GEE"
+---
+
+## Definição
+
+Constituintes gasosos da atmosfera, tanto naturais como antropogênicos, que absorvem e emitem radiação, provocando o efeito estufa. O vapor de água (H2O), o dióxido de carbono (CO2), o óxido nitroso (N2O), o metano (CH4) e o ozônio (O3) são os principais GEE na atmosfera terrestre. Os GEE produzidos pelos seres humanos incluem o hexafluoreto de enxofre (SF6), os hidrofluorcarbonetos (HFC), os clorofluorcarbonetos (CFC) e os perfluorcarbonetos (PFC); vários deles também destroem o O3 (e são regulados pelo Protocolo de Montreal).
+
+## Texto original
+
+> -
+
+## Fonte
+
+Inquérito Global da OMS sobre Saúde e Mudanças Climáticas - 2025 (Documento de Apoio) - p. 6

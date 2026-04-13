@@ -1,0 +1,15 @@
+---
+title: "Planejamento multirrisco"
+---
+
+## Definição
+
+Planejamento multirrisco é a integração de diferentes tipos de ameaças — climáticas, biológicas, tecnológicas e sociais — em um único processo de análise e preparação, permitindo que planos de adaptação e contingência considerem riscos simultâneos, combinados ou em cascata.
+
+## Texto original
+
+> “Planejamento multirrisco, incorporando diferentes tipos de ameaças (hidrometeorológicas, biológicas, tecnológicas e sociais) nos planos de adaptação e contingência;”
+
+## Fonte
+
+Elaboração de documento técnico contendo subsídios para a elaboração de proposta metodológica para orientar a elaboração do Plano AdaptaSUS nas esferas estadual e  municipal do SUS - OPAS/Eliane Lima

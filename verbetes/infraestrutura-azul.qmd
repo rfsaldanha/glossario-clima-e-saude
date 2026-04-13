@@ -1,0 +1,15 @@
+---
+title: "Infraestrutura azul"
+---
+
+## Definição
+
+A infraestrutura azul inclui corpos d'água, cursos d'água, lagoas, lagos e sistemas de drenagem pluvial, que desempenham funções ecológicas e hidrológicas, incluindo evaporação, transpiração, drenagem, infiltração e armazenamento temporário de escoamento superficial e descarga.
+
+## Texto original
+
+> "Blue infrastructure includes bodies of water, watercourses, ponds, lakes and storm drainage, that provide ecological and hydrological functions including evaporation, transpiration, drainage, infiltration and temporarily storage of runoff and discharge."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

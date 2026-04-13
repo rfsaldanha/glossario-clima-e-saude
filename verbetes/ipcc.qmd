@@ -1,0 +1,15 @@
+---
+title: "IPCC"
+---
+
+## Definição
+
+O Painel Intergovernamental sobre Mudanças Climáticas (IPCC) é uma organização composta por governos membros das Nações Unidas ou da OMM (Organização Meteorológica Mundial). Criado em 1988 pela OMM e pelo Programa das Nações Unidas para o Meio Ambiente (PNUMA), o objetivo do IPCC é fornecer aos governos em todos os níveis informações científicas que possam ser utilizadas no desenvolvimento de políticas climáticas. Os relatórios do IPCC também são uma contribuição fundamental para as negociações internacionais sobre mudanças climáticas.
+
+## Texto original
+
+> "The Intergovernmental Panel on Climate Change (IPCC) is an organization of governments that are members of the United Nations or WMO. Created in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP), the objective of the IPCC is to provide governments at all levels with scientific information that they can use to develop climate policies. IPCC reports are also a key input into international climate change negotiations."
+
+## Fonte
+
+https://www.ipcc.ch/about/

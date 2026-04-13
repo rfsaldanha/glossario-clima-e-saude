@@ -1,0 +1,15 @@
+---
+title: "Atmosfera"
+---
+
+## Definição
+
+A camada gasosa que envolve a Terra, dividida em cinco camadas: a troposfera, que contém metade da atmosfera terrestre, a estratosfera, mesosfera, termosfera e exosfera, que é o limite externo da atmosfera. A atmosfera consiste quase completamente de nitrogênio (78,1% do volume) e oxigênio (20,9% do volume), em conjunto com um número de gazes traço, como o argônio (0,93% do volume), hélio e gases de efeito estufa radioativamente ativos (GEEs), como dióxido de carbono (CO2) (0,04% do volume), metano (CH4), óxido nitroso (N2O) e ozônio (O3). Adicionalmente, a atmosfera contém o vapor de água (H2O), considerado um GEE, cujas concentrações são altamente variáveis (0-5% do volume), sobretudo pois as fontes (evapotranspiração) e sumidouros (precipitação) apresentam grandes variações espaço-temporais, e a temperatura atmosférica exerce um limitador importante na quantidade de vapor de água que uma parcela de ar pode segurar. A atmosfera também contém nuvens e aerossóis.
+
+## Texto original
+
+> "The gaseous envelope surrounding the Earth, divided into five layers: the troposphere, which contains half of the Earth’s atmosphere, the stratosphere, the mesosphere, the thermosphere and the exosphere, which is the outer limit of the atmosphere. The dry atmosphere consists almost entirely of nitrogen (78.1% volume mixing ratio) and oxygen (20.9% volume mixing ratio), together with a number of trace gases such as argon (0.93% volume mixing ratio), helium and radiatively active greenhouse gases (GHGs) such as carbon dioxide (CO2) (0.04% volume mixing ratio) methane (CH4), nitrous oxide (N2O) and ozone (O3). In addition, the atmosphere contains the GHG water vapour (H2O), whose concentrations are highly variable (0–5% volume mixing ratio) as the sources (evapotranspiration) and sinks (precipitation) of water vapour show large spatio-temporal variations, and atmospheric temperature exerts a strong constraint on the amount of water vapour an air parcel can hold.. The atmosphere also contains clouds and aerosols."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

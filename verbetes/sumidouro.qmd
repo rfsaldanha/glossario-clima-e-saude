@@ -1,0 +1,15 @@
+---
+title: "Sumidouro"
+---
+
+## Definição
+
+Qualquer processo, atividade ou mecanismo que remove gases de efeito-estufa, aerossóis ou um precursor de GEEs da atmosfera (UNFCCC artigo 1.8 (UNFCCC, 1992)).
+
+## Texto original
+
+> "Any process, activity or mechanism which removes a greenhouse gas, an aerosol or a precursor of a greenhouse gas from the atmosphere (UNFCCC Article 1.8 (UNFCCC, 1992))."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

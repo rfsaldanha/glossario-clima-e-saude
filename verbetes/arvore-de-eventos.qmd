@@ -1,0 +1,15 @@
+---
+title: "Árvore de eventos"
+---
+
+## Definição
+
+Técnica dedutiva de análise de riscos usada para avaliar as possíveis conseqüências de um desastre em potencial, resultante de falha específica de equipamento ou de erro humano, definido como “evento inicial”. Os resultados da análise da árvore de eventos caracterizam seqüências de acidentes, ou melhor, o conjunto cronológico de falhas ou erros que definem o acidente. Tem por objetivo antecipar e descrever, a partir do evento inicial, as conseqüências lógicas do possível acidente, de uma forma seqüenciada.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

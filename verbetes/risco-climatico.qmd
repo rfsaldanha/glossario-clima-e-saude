@@ -1,0 +1,15 @@
+---
+title: "Risco climático"
+---
+
+## Definição
+
+Riscos à saúde decorrentes da interação entre ameaças climáticas (ex.: ondas de calor, inundações, secas), a exposição das populações a elas e a vulnerabilidade condicionada por fatores sociais, econômicos, ambientais e de saúde.
+
+## Texto original
+
+> “Os riscos climáticos à saúde resultam da interação entre ameaças associadas ao clima (como ondas de calor, inundações, secas e doenças vetoriais), a exposição das populações a essas ameaças e a vulnerabilidade existente em função de fatores socioeconômicos, ambientais e de saúde.”
+
+## Fonte
+
+Ministério da Saúde (Brasil), AdaptaSUS – Plano Nacional de Adaptação da Saúde às Mudanças do Clima (versão 4, ago. 2025), p. 17

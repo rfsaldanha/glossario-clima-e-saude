@@ -1,0 +1,15 @@
+---
+title: "Ciclo de feedback"
+---
+
+## Definição
+
+Uma interação na qual uma perturbação em uma grandeza climática causa uma mudança em uma segunda grandeza, e a mudança na segunda grandeza, por sua vez, leva a uma mudança adicional na primeira. Um feedback negativo é aquele em que a perturbação inicial é atenuada pelas mudanças que causa; um feedback positivo é aquele em que a perturbação inicial é amplificada. A perturbação inicial pode ser forçada externamente ou surgir como parte da variabilidade interna.
+
+## Texto original
+
+> "An interaction in which a perturbation in one climate quantity causes a change in a second and the change in the second quantity ultimately leads to an additional change in the first. A negative feedback is one in which the initial perturbation is weakened by the changes it causes; a positive feedback is one in which the initial perturbation is enhanced. The initial perturbation can either be externally forced or arise as part of internal variability."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

@@ -1,0 +1,15 @@
+---
+title: "Cobertura do solo"
+---
+
+## Definição
+
+A cobertura biofísica da terra (por exemplo, solo exposto, rochas, florestas, edifícios e estradas ou lagos). A cobertura da terra é frequentemente categorizada em grandes classes (por exemplo, floresta decídua, floresta de coníferas, floresta mista, pastagem e solo exposto).
+
+## Texto original
+
+> "The biophysical coverage of land (e.g., bare soil, rocks, forests, buildings and roads, or lakes). Land cover is often categorised in broad land-cover classes (e.g., deciduous forest, coniferous forest, mixed forest, grassland and bare ground)."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

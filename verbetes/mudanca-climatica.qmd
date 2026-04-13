@@ -1,0 +1,15 @@
+---
+title: "Mudança climática"
+---
+
+## Definição
+
+Uma mudança no estado do clima que pode ser identificada (por exemplo, por meio do uso de testes estatísticos) por alterações na média e/ou na variabilidade de suas propriedades e que persiste por um período prolongado, geralmente décadas ou mais. A mudança do clima pode decorrer de processos internos naturais ou de forçantes externas, como variações nos ciclos solares, erupções vulcânicas e mudanças antrópicas persistentes na composição da atmosfera ou no uso da terra. Observe que a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), em seu Artigo 1º, define mudança do clima como: “uma mudança do clima que seja atribuída direta ou indiretamente à atividade humana que altere a composição da atmosfera global e que se some à variabilidade climática natural observada ao longo de períodos de tempo comparáveis”. A UNFCCC, portanto, estabelece uma distinção entre a mudança do clima atribuível às atividades humanas que alteram a composição atmosférica e a variabilidade climática atribuível a causas naturais.
+
+## Texto original
+
+> "A change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent anthropogenic changes in the composition of the atmosphere or in land use. Note that the United Nations Framework Convention on Climate Change (UNFCCC), in its Article 1, defines climate change as: ‘a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods’. The UNFCCC thus makes a distinction between climate change attributable to human activities altering the atmospheric composition and climate variability attributable to natural causes."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

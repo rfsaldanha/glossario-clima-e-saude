@@ -1,0 +1,15 @@
+---
+title: "Inundações"
+---
+
+## Definição
+
+"O transbordamento dos limites normais de um curso d’água ou de outro corpo hídrico, ou o acúmulo de água sobre áreas que normalmente não ficam submersas. As inundações podem ser causadas por chuvas excepcionalmente intensas, por exemplo durante tempestades e ciclones. As inundações incluem inundações fluviais (de rios), enxurradas, inundações urbanas, inundações pluviais (por chuva), inundações por sistemas de esgoto, inundações costeiras e inundações por rompimento de lagos glaciais (GLOF)."
+
+## Texto original
+
+> "The overflowing of the normal confines of a stream or other water body, or the accumulation of water over areas that are not normally submerged. Floods can be caused by unusually heavy rain, for example during storms and cyclones. Floods include river (fluvial) floods, flash floods, urban floods, rain (pluvial) floods, sewer floods, coastal floods, and glacial lake outburst floods (GLOF)."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

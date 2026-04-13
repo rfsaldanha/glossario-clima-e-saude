@@ -1,0 +1,15 @@
+---
+title: "Antropoceno"
+---
+
+## Definição
+
+Nova era geológica proposta como resultado de mudanças antrópicas significativas à estrutura e funcionamento do sistema terrestre, incluindo o sistema climático. Originalmente proposta pela comunidade científica das ciências da terra em 2000, a nova era proposta está passando por um processo de formalização dentro da comunidade geológica, baseando-se em evidências estratográficas de que as atividades humanas modificaram o sistema terrestre a ponto de formar depósitos geológicos com uma assinatura que é distinta dos referentes ao Holoceno, e que continuarão no registro geológico. Tanto as abordagens estratigráficas e do sistema terrestre para definir o Antropoceno consideram a metade do século XX como a data inicial mais apropriada (Steffen et al., 2016), embora outras definições tenham sido propostas e continuem sendo discutidas. O conceito do Antropoceno já foi informalmente adotada por diversas disciplinas e pelo público para destacar a influência substancial dos humanos no sistema terrestre.
+
+## Texto original
+
+> "A proposed new geological epoch resulting from significant human-driven changes to the structure and functioning of the Earth system, including the climate system. Originally proposed in the Earth System science community in 2000, the proposed new epoch is undergoing a formalisation process within the geological community based on the stratigraphic evidence that human activities have changed the Earth System to the extent of forming geological deposits with a signature that is distinct from those of the Holocene, and which will remain in the geological record. Both the stratigraphic and Earth system approaches to defining the Anthropocene consider the mid-20th century to be the most appropriate starting date (Steffen et al., 2016), although others have been proposed and continue to be discussed. The Anthropocene concept has already been informally adopted by diverse disciplines and the public to denote the substantive influence of humans on the Earth system."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

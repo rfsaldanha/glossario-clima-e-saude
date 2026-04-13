@@ -1,0 +1,15 @@
+---
+title: "Normal"
+---
+
+## Definição
+
+Médias de períodos registradas por um período uniforme e relativamente longo composto de pelo menos três períodos consecutivos de 10 anos.
+
+## Texto original
+
+> "Period averages computed for a uniform and relatively long period comprising at least three consecutive ten-year periods."
+
+## Fonte
+
+Guide to the calculation of Climate Normals, WMO

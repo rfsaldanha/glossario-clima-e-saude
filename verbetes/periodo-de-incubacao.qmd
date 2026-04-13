@@ -1,0 +1,15 @@
+---
+title: "Período de incubação"
+---
+
+## Definição
+
+Intervalo de tempo que decorre entre a exposição a um agente infeccioso e o surgimento de sinais e sintomas da doença. Para um vetor, indica o momento em que a transmissão passa a ser possível.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Glossário de Defesa Civil: estudos de Riscos e Medicina de Desastres. CASTRO, Antonio Luiz Coimbra de. 5. ed. Brasília – DF: Secretaria Nacional de Defesa Civil (SEDEC), 2009.

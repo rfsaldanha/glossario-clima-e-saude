@@ -1,0 +1,15 @@
+---
+title: "Anomalia"
+---
+
+## Definição
+
+O desvio de uma variável do seu valor médio dentro de um período de referência.
+
+## Texto original
+
+> "The deviation of a variable from its value averaged over a reference period."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

@@ -1,0 +1,15 @@
+---
+title: "Mudança transformadora"
+---
+
+## Definição
+
+Uma mudança sistêmica que exige mais do que uma mudança tecnológica, considerando fatores sociais e econômicos que, juntamente com a tecnologia, podem gerar mudanças rápidas e em larga escala.
+
+## Texto original
+
+> "A system-wide change that requires more than technological change through consideration of social and economic factors that, with technology, can bring about rapid change at scale."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

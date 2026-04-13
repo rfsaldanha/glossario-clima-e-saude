@@ -1,0 +1,16 @@
+---
+title: "Infraestrutura verde"
+---
+
+## Definição
+
+A infraestrutura verde é um conjunto estrategicamente planejado e interconectado de sistemas ecológicos naturais e construídos, espaços verdes e outros elementos da paisagem que podem fornecer funções e serviços, incluindo purificação do ar e da água, controle da temperatura, gestão de cheias e defesa costeira, frequentemente com benefícios adicionais para o bem-estar humano e ecológico. A infraestrutura verde inclui vegetação nativa plantada e remanescente, solos, zonas úmidas, parques e espaços verdes abertos, bem como intervenções de design em edifícios e ruas que incorporam vegetação.
+
+## Texto original
+
+> "The strategically planned interconnected set of natural and constructed ecological systems, green spaces and other landscape features that can provide functions and services including air and water purification, temperature management, floodwater management and coastal defence often with co-benefits for human and ecological well-being. Green infrastructure includes planted and remnant native vegetation, soils, wetlands, parks and green open spaces, as well as building and street-level design interventions that incorporate vegetation"
+
+## Fonte
+
+BOBBINS, K.; CULWICK FATTI, C. (Org.). A framework for a green infrastructure planning approach in the Gauteng City-Region. [S. l.]: Gauteng City-Region Observatory, 2016. Disponível em: https://www.gcro.ac.za/outputs/research-reports/detail/a-framework-for-a-green-infrastructure-planning-approach-in-the-gauteng-city-region/. Acesso em: 13 abr. 2026.
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

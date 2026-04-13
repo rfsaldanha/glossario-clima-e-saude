@@ -1,0 +1,17 @@
+---
+title: "Desastre"
+---
+
+## Definição
+
+Uma ‘perturbação grave do funcionamento de uma comunidade ou sociedade em qualquer escala, devido a eventos perigosos que interagem com condições de exposição, vulnerabilidade e capacidade, levando a uma ou mais das seguintes consequências: perdas e impactos humanos, materiais, econômicos e ambientais’.
+
+Resultado de eventos adversos, naturais ou provocados pelo homem, sobre um ecossistema (vulnerável), causando danos humanos, materiais e/ou ambientais e conseqüentes prejuízos econômicos e sociais. Os desastres são quantificados, em função dos danos e prejuízos, em termos de intensidade, enquanto que os eventos adversos são quantificados em termos de magnitude. A intensidade de um desastre depende da interação entre a magnitude do evento adverso e o grau de vulnerabilidade do sistema receptor afetado. Normalmente o fator preponderante para a intensificação de um desastre é o grau de  vulnerabilidade do sistema receptor. Os desastres classificam-se quanto à Intensidade, Evolução e Origem.
+
+## Texto original
+
+> "A ‘serious disruption of the functioning of a community or a society at any scale due to hazardous events interacting with conditions of exposure, vulnerability and capacity, leading to one or more of the following: human, material, economic and environmental losses and impacts’"
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

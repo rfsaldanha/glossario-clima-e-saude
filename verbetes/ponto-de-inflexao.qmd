@@ -1,0 +1,15 @@
+---
+title: "Ponto de inflexão"
+---
+
+## Definição
+
+Um limite crítico através do qual um sistema se reorganiza, frequentemente de forma abrupt e/ou irreversível.
+
+## Texto original
+
+> "A critical threshold beyond which a system reorganises, often abruptly and/or irreversibly."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

@@ -1,0 +1,15 @@
+---
+title: "Projeção climática"
+---
+
+## Definição
+
+Resposta simulada do sistema climático a um cenário de futuras emissões ou concentrações de gases de efeito estufa (GEE) e aerossóis, bem como a mudanças no uso da terra, geralmente obtida por meio de modelos climáticos. As projeções climáticas dependem de um cenário de emissões/concentrações/forçamento radiativo, que, por sua vez, baseia-se em pressupostos sobre, por exemplo, desenvolvimentos socioeconômicos e tecnológicos futuros que podem ou não se concretizar.
+
+## Texto original
+
+> "Simulated response of the climate system to a scenario of future emissions or concentrations of greenhouse gases (GHGs) and aerosols and changes in land use, generally derived using climate models. Climate projections depend on an emission/concentration/radiative forcing scenario, which is in turn based on assumptions concerning, for example, future socioeconomic and technological developments that may or may not be realised."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

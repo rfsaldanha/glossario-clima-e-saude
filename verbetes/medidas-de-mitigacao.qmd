@@ -1,0 +1,15 @@
+---
+title: "Medidas de mitigação"
+---
+
+## Definição
+
+Em políticas climáticas, medidas de mitigação são tecnologias, processos ou práticas que contribuem para mitigação, por exemplo: tecnologias de energia renovável, minimização de processos de disposição de resíduos e incentivos ao uso de transporte público.
+
+## Texto original
+
+> "In climate policy, mitigation measures are technologies, processes or practices that contribute to mitigation, for example renewable energy technologies, waste minimisation processes and public transport commuting practices."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

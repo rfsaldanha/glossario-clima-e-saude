@@ -1,0 +1,15 @@
+---
+title: "Plano de ação"
+---
+
+## Definição
+
+Um Plano de Ação é um instrumento de gestão que organiza, de forma sistemática e operacional, a execução de políticas, programas ou estratégias em um período definido. Ele estabelece objetivos específicos, metas mensuráveis, atividades detalhadas, responsáveis, prazos e indicadores de monitoramento, garantindo que as ações planejadas sejam implementadas de maneira coordenada, acompanhada e avaliável.
+
+## Texto original
+
+> "Plano de Ação: Organizar a execução de políticas ou programas em um período determinado, com objetivos, metas e indicadores definidos."
+
+## Fonte
+
+Elaboração de documento técnico contendo subsídios para a elaboração de proposta metodológica para orientar a elaboração do Plano AdaptaSUS nas esferas estadual e  municipal do SUS - OPAS/Eliane Lima

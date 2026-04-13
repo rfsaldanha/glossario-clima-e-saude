@@ -1,0 +1,16 @@
+---
+title: "Caminhos socioeconômicos compartilhados"
+subtitle: "SSPs"
+---
+
+## Definição
+
+As trajetórias socioeconômicas compartilhadas (SSPs, na sigla em inglês) foram desenvolvidas para complementar as Trajetórias de Concentração Representativas (RCPs, na sigla em inglês). Por definição, as trajetórias de emissão e concentração das RCPs foram desvinculadas de sua associação com um determinado nível de desenvolvimento socioeconômico. Diferentes níveis de emissões e mudanças climáticas ao longo da dimensão das RCPs podem, portanto, ser explorados em relação a diferentes trajetórias de desenvolvimento socioeconômico (SSPs) na outra dimensão, em uma matriz.
+
+## Texto original
+
+> "Shared socio-economic pathways (SSPs) have been developed to complement the Representative Concentration Pathways (RCPs). By design, the RCP emission and concentration pathways were stripped of their association with a certain socio-economic development. Different levels of emissions and climate change along the dimension of the RCPs can hence be explored against the backdrop of different socio-economic development pathways (SSPs) on the other dimension in a matrix."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

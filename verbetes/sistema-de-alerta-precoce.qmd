@@ -1,0 +1,15 @@
+---
+title: "Sistema de alerta precoce"
+---
+
+## Definição
+
+Conjunto de capacidades técnicas e institucionais para prever, antecipar e comunicar informações de alerta oportunas e significativas, de modo a permitir que indivíduos, comunidades, ecossistemas manejados e organizações ameaçados por um perigo se preparem para agir de forma rápida e adequada, reduzindo a possibilidade de danos ou perdas. Dependendo do contexto, os Sistemas de Alerta Precoce (EWS) podem basear-se em conhecimento científico e/ou indígena, bem como em outros tipos de conhecimento. Os EWS também são considerados para aplicações ecológicas, por exemplo, na conservação, em que a organização em si não está ameaçada pelo perigo, mas o ecossistema sob conservação está (por exemplo, alertas de branqueamento de corais), na agricultura (por exemplo, alertas de chuvas intensas, seca, geada e tempestades de granizo) e na pesca (por exemplo, alertas de tempestades, marés de tempestade e tsunamis) (UNISDR 2009; IPCC, 2012a).
+
+## Texto original
+
+> "The set of technical and institutional capacities to forecast, predict and communicate timely and meaningful warning information to enable individuals, communities, managed ecosystems and organisations threatened by a hazard to prepare to act promptly and appropriately to reduce the possibility of harm or loss. Dependent upon context, EWS may draw upon scientific and/or indigenous knowledge, and other knowledge types. EWS are also considered for ecological applications, for example, conservation, where the organisation itself is not threatened by hazard but the ecosystem under conservation is (e.g., coral bleaching alerts), in agriculture (e.g., warnings of heavy rainfall, drought, ground frost and hailstorms) and in fisheries (e.g., warnings of storms, storm surges and tsunamis) (UNISDR 2009; IPCC, 2012a)."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

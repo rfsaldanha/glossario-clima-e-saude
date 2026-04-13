@@ -1,0 +1,15 @@
+---
+title: "Evento em saúde pública"
+---
+
+## Definição
+
+É uma situação que pode constituir potencial ameaça à saúde pública, como a ocorrência de um surto, epidemia, doença, agravo de causa desconhecida e alteração no padrão clínico-epidemiológico das doenças conhecidas, considerando o potencial de disseminação, a magnitude a gravidade, a severidade, a transcendência e a vulnerabilidade, bem como epizootias e agravos decorrentes de desastres ou acidentes.
+
+## Texto original
+
+> -
+
+## Fonte
+
+Guia para Elaboração de Planos de Contingência - Ministério da Saúde

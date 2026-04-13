@@ -1,0 +1,15 @@
+---
+title: "Aerossol"
+---
+
+## Definição
+
+Suspensão de partículas sólidas ou líquidas transportadas pelo ar, com tamanho típico variando de alguns nanômetros a várias dezenas de micrômetros e tempo de permanência na atmosfera de até vários dias na troposfera e de até anos na estratosfera. O termo aerossol, que inclui tanto as partículas quanto o gás em suspensão, é frequentemente usado neste relatório em sua forma plural para significar 'partículas de aerossol'. Os aerossóis podem ter origem natural ou antrópica na troposfera; os aerossóis estratosféricos derivam principalmente de erupções vulcânicas. Os aerossóis podem provocar um forçamento radiativo efetivo diretamente por meio da dispersão e da absorção de radiação (interação aerossol–radiação) e, indiretamente, ao atuarem como núcleos de condensação de nuvens ou partículas nucleadoras de gelo que afetam as propriedades das nuvens (interação aerossol–nuvem), bem como após sua deposição sobre superfícies cobertas por neve ou gelo. Os aerossóis atmosféricos podem ser emitidos como material particulado primário ou formados na atmosfera a partir de precursores gasosos (produção secundária). Os aerossóis podem ser compostos por sal marinho, carbono orgânico, carbono negro (BC), espécies minerais (principalmente poeira desértica), sulfato, nitrato e amônio, ou por misturas desses componentes. Veja também Material particulado (MP) e Forçantes climáticos de vida curta (SLCFs).
+
+## Texto original
+
+> "A suspension of airborne solid or liquid particles, with typical particle size in the range of a few nanometres to several tens of micrometres and atmospheric lifetimes of up to several days in the troposphere and up to years in the stratosphere. The term aerosol, which includes both the particles and the suspending gas, is often used in this report in its plural form to mean ‘aerosol particles’. Aerosols may be of either natural or anthropogenic origin in the troposphere; stratospheric aerosols mostly stem from volcanic eruptions. Aerosols can cause an effective radiative forcing directly through scattering and absorbing radiation (aerosol–radiation interaction), and indirectly by acting as cloud condensation nuclei or ice nucleating particles that affect the properties of clouds (aerosol–cloud interaction), and upon deposition on snow- or ice-covered surfaces. Atmospheric aerosols may be either emitted as primary particulate matter or formed within the atmosphere from gaseous precursors (secondary production). Aerosols may be composed of sea salt, organic carbon, black carbon (BC), mineral species (mainly desert dust), sulphate, nitrate and ammonium or their mixtures."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

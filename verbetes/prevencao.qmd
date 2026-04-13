@@ -1,0 +1,16 @@
+---
+title: "Prevenção"
+subtitle: "Prevention"
+---
+
+## Definição
+
+Atividades e medidas para evitar riscos de desastre existentes e novos.
+
+## Texto original
+
+> “Activities and measures to avoid existing and new disaster risks.”
+
+## Fonte
+
+UNDRR, Terminology on Disaster Risk Reduction, 2017

@@ -1,6 +1,6 @@
 ---
-title: Alerta precoce
-subtitle: Early warning system
+title: "Alerta precoce"
+subtitle: "Early warning system"
 ---
 
 ## Definição
@@ -9,10 +9,8 @@ Conjunto de capacidades para gerar e disseminar, em tempo oportuno, alertas sign
 
 ## Texto original
 
-> An integrated system of hazard monitoring, forecasting and prediction, disaster risk assessment, communication and preparedness activities systems and processes that enables individuals, communities, governments, businesses and others to take timely action to reduce disaster risks in advance of hazardous events.
+> "An integrated system of hazard monitoring, forecasting and prediction, disaster risk assessment, communication and preparedness activities systems and processes that enables individuals, communities, governments, businesses and others to take timely action to reduce disaster risks in advance of hazardous events."
 
 ## Fonte
 
 United Nations Office for Disaster Risk Reduction (UNDRR). 2017. The Sendai Framework Terminology on Disaster Risk Reduction. "Early warning system"
-
-## Comentário

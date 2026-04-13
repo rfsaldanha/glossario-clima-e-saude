@@ -1,0 +1,15 @@
+---
+title: "Evapotranspiração potencial"
+---
+
+## Definição
+
+A taxa potencial de perda de água sem quaisquer limitações impostas pela disponibilidade de água.
+
+## Texto original
+
+> "The potential rate of water loss without any limits imposed by the water supply."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927

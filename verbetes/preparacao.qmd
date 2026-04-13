@@ -1,0 +1,16 @@
+---
+title: "Preparação"
+subtitle: "Preparedness"
+---
+
+## Definição
+
+Conhecimentos e capacidades desenvolvidos por governos, organizações de resposta e recuperação, comunidades e indivíduos para antecipar, responder e se recuperar de desastres prováveis, iminentes ou atuais.
+
+## Texto original
+
+> “The knowledge and capacities developed by governments, response and recovery organizations, communities and individuals to effectively anticipate, respond to, and recover from, the impacts of likely, imminent or current disasters.”
+
+## Fonte
+
+UNDRR, Terminology on Disaster Risk Reduction, 2017

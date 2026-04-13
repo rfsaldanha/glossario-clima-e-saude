@@ -1,0 +1,16 @@
+---
+title: "Projeto de Intercomparação de Modelos Acoplados"
+subtitle: "CMIP"
+---
+
+## Definição
+
+Uma atividade de modelagem climática do Programa Mundial de Pesquisa Climática (WCRP) que coordena e arquiva simulações de modelos climáticos com base em dados compartilhados por grupos de modelagem de todo o mundo.
+
+## Texto original
+
+> "A climate modelling activity from the World Climate Research Programme (WCRP) which coordinates and archives climate model simulations based on shared model inputs by modelling groups from around the world."
+
+## Fonte
+
+IPCC, AR6 Working Group II – Annex II: Glossary, 2022, p. 2927
