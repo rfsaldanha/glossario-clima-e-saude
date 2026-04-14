@@ -3644,14 +3644,14 @@
     "href": "verbetes/avaliacao-de-vulnerabilidade-e-adaptacao-as-mudancas-climaticas-e-a-saude.html",
     "title": "Avaliação de Vulnerabilidade e Adaptação às Mudanças Climáticas e à Saúde",
     "section": "",
-    "text": "–"
+    "text": "flowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\n\n\n\n\n–"
   },
   {
     "objectID": "verbetes/avaliacao-de-vulnerabilidade-e-adaptacao-as-mudancas-climaticas-e-a-saude.html#definição",
     "href": "verbetes/avaliacao-de-vulnerabilidade-e-adaptacao-as-mudancas-climaticas-e-a-saude.html#definição",
     "title": "Avaliação de Vulnerabilidade e Adaptação às Mudanças Climáticas e à Saúde",
     "section": "",
-    "text": "–"
+    "text": "flowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\n\n\n\n\n–"
   },
   {
     "objectID": "verbetes/avaliacao-de-vulnerabilidade-e-adaptacao-as-mudancas-climaticas-e-a-saude.html#texto-original",
