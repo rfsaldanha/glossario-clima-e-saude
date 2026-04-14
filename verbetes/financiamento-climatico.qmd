@@ -1,0 +1,20 @@
+---
+title: "Financiamento Climático"
+subtitle: "Climate Finance"
+---
+
+## Definição
+
+Financiamento climático refere-se aos recursos e instrumentos financeiros utilizados para apoiar ações de combate às mudanças climáticas. O financiamento climático é fundamental para enfrentar as mudanças climáticas devido aos investimentos em larga escala necessários para a transição para uma economia global de baixo carbono e para ajudar as sociedades a desenvolver resiliência e se adaptar aos impactos das mudanças climáticas.
+
+O financiamento climático pode vir de diferentes fontes, públicas ou privadas, nacionais ou internacionais, bilaterais ou multilaterais. Pode empregar diferentes instrumentos, como doações, títulos verdes, permutas de dívida, garantias e empréstimos concessionais. E pode ser usado para diferentes atividades, incluindo mitigação, adaptação e desenvolvimento de resiliência.
+
+## Texto original
+
+> Climate finance refers to financial resources and instruments that are used to support action on climate change. Climate finance is critical to addressing climate change because of the large-scale investments that are needed to transition to a low-carbon global economy and to help societies build resilience and adapt to the impacts of climate change.
+
+Climate finance can come from different sources, public or private, national or international, bilateral or multilateral. It can employ different instruments such as grants and donations, green bonds, debt swaps, guarantees, and concessional loans. And it can be used for different activities, including mitigation, adaptation, and resilience-building.
+
+## Fonte
+
+UNDP. The Climate Dictionary. New York: ONU, 2023.

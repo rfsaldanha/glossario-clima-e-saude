@@ -1,0 +1,24 @@
+---
+title: "Mercados de Carbono"
+subtitle: "Carbon Markets"
+---
+
+## Definição
+
+Os mercados de carbono são sistemas de negociação que criam incentivos financeiros para atividades que reduzem ou eliminam as emissões de gases de efeito estufa. Nesses sistemas, as emissões são quantificadas em créditos de carbono que podem ser comprados e vendidos. Um crédito de carbono negociável equivale a uma tonelada de dióxido de carbono, ou à quantidade equivalente de outro gás de efeito estufa reduzida, sequestrada ou evitada.
+
+Os créditos de carbono podem ser comprados por países como parte de suas Contribuições Nacionalmente Determinadas (NDCs), por empresas com metas de sustentabilidade e por indivíduos que desejam compensar sua pegada de carbono.
+
+O fornecimento de créditos de carbono provém de entidades privadas ou governos que desenvolvem programas para reduzir ou eliminar emissões. Esses programas são certificados por terceiros e registrados de acordo com um padrão do mercado de carbono.
+
+## Texto original
+
+> Carbon markets are trading schemes that create financial incentives for activities that reduce or remove greenhouse gas emissions. In these schemes, emissions are quantified into carbon credits that can be bought and sold. One tradable carbon credit equals one tonne of carbon dioxide, or the equivalent amount of a different greenhousegas reduced, sequestered or avoided.
+
+Carbon credits can be bought by countries as part of their NDC strategy, by corporations with sustainability targets, and by private individuals that want to compensate for their carbon footprint.
+
+The supply of carbon credits comes from private entities or governments that develop programmes to reduce or remove emissions. These programmes are certified by a third party and registered under a carbon market standard.
+
+## Fonte
+
+UNDP. The Climate Dictionary. New York: ONU, 2023.

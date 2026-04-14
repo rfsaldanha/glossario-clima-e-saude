@@ -1,0 +1,16 @@
+---
+title: "Captura de Carbono"
+subtitle: "Carbon Capture"
+---
+
+## Definição
+
+A captura e o armazenamento de carbono são o processo de reter as emissões de carbono produzidas por usinas termelétricas a combustíveis fósseis ou outros processos industriais antes que elas cheguem à atmosfera, armazenando-as em profundidade no subsolo. A captura e o armazenamento de carbono não devem ser vistos como uma alternativa à transição para energias limpas, mas têm sido propostos como uma forma de lidar com as emissões de setores difíceis de descarbonizar, particularmente indústrias pesadas como cimento, aço e produtos químicos.
+
+## Texto original
+
+> Carbon capture and storage is the process of trapping carbon emissions produced by fossil fuel power plants or other industrial processes before they can enter our atmosphere by storing them deep underground. Carbon capture and storage should not be seen as an alternative to the green energy transition, but it has been proposed as a way to tackle emissions from sectors that are difficult to decarbonize, particularly heavy industries like cement, steel, and chemicals.
+
+## Fonte
+
+UNDP. The Climate Dictionary. New York: ONU, 2023.

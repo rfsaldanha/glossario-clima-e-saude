@@ -1,0 +1,20 @@
+---
+title: "Energia Renovável"
+subtitle: "Renewable Energy"
+---
+
+## Definição
+
+Energia renovável é a energia derivada de fontes naturais que são constantemente reabastecidas, como o vento, a luz solar, o fluxo da água e o calor geotérmico. Em contraste com a energia proveniente de combustíveis fósseis como carvão, petróleo e gás, que responde por 75% das emissões nocivas de gases de efeito estufa que causam as mudanças climáticas, a energia de fontes renováveis ​​é barata, limpa, sustentável e gera mais empregos.
+
+A transição dos combustíveis fósseis para a energia renovável em todos os setores – energia elétrica, aquecimento e refrigeração, transporte e indústria – é fundamental para enfrentar a crise climática. Para manter o aquecimento global abaixo de 1,5°C, o mundo precisa eliminar imediatamente o uso de combustíveis fósseis e passar por uma profunda transformação do sistema energético por meio da eletrificação acelerada e da obtenção de energia a partir de fontes renováveis.
+
+## Texto original
+
+> Renewable energy is energy derived from natural sources that areconstantly being replenished, such as wind, sunlight, the flow of moving water, and geothermal heat. In contrast to energy sourced from fossil fuels like coal, oil, and gas, which accounts for 75 percent of the harmful greenhouse gas emissions that are causing climate change, energy from renewable sources is cheap, clean, sustainable,and generates more jobs.
+
+Transitioning from fossil fuels to renewable energy in all sectors – power, heating and cooling, transportation, and industry – is key to addressing the climate crisis. To stay under 1.5°C of global warming, the world needs to immediately phase out fossil fuel use and undergo a profound transformation of the energy system through rapid electrification and sourcing energy from renewable sources.
+
+## Fonte
+
+UNDP. The Climate Dictionary. New York: ONU, 2023.

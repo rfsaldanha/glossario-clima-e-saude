@@ -1,0 +1,20 @@
+---
+title: "Economia Azul"
+subtitle: "Blue Economy"
+---
+
+## Definição
+
+O conceito de "economia azul" busca promover o desenvolvimento econômico, a inclusão social e a preservação ou melhoria dos meios de subsistência, garantindo, ao mesmo tempo, a sustentabilidade ambiental dos oceanos e das áreas costeiras.
+
+A economia azul possui diversos componentes, incluindo indústrias oceânicas tradicionais já estabelecidas, como pesca, turismo e transporte marítimo, mas também atividades novas e emergentes, como energia renovável offshore, aquicultura, atividades extrativas no leito marinho e biotecnologia marinha.
+
+## Texto original
+
+> The "blue economy" concept seeks to promote economic development, social inclusion, and the preservation or improvement of livelihoods while at the same time ensuring environmental sustainability of the oceans and coastal areas.
+
+Blue economy has diverse components, including established traditional ocean industries such as fisheries, tourism, and maritime transport, but also new and emerging activities, such as offshore renewable energy, aquaculture, seabed extractive activities, and marine biotechnology.
+
+## Fonte
+
+UNDP. The Climate Dictionary. New York: ONU, 2023.
